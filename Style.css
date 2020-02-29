@@ -1,13 +1,18 @@
 
 
 #topbar {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	background-color: #AFD7E8;
 	height: 60px;
+	width: 100%;
 	border-radius: 15px;
 	text-align: center;
 	font-size: 50px;
 	font-family: Arvo;
-	margin-top: -45px;
+	margin-top: 5px;
+	border: 3px solid;
 }
 
 #projects {
@@ -22,7 +27,8 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-
+	font-family: Arvo;
+	border: 3px solid;
 }
 
 #boxgrande {
@@ -33,18 +39,21 @@
 	width: 100%;
 	border-radius: 15px;
 	margin-top: 10px;
+	font-family: Arvo;
 }
 
 #celdas {
+	background-color: #8CA77B; 
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: green;
-	height: 700px; 
-	width: 24%;
+	height: 680px; 
+	width: 25%;
 	border-radius: 15px;
-	margin-top: 10px;
+	margin-top: 5px;
 	float:left;
 	margin-left: 10px;
 	margin-right: 13px;
+	font-family: Arvo;
+	border: 3px solid;
 }
