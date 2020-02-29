@@ -9,3 +9,20 @@
 	font-family: Arvo;
 	margin-top: -45px;
 }
+
+#projects {
+	background-color: #F1D3A3;
+	height: 50px; 
+	width: 100%;
+	border-radius: 15px;
+	margin-top: -10px;
+	text-align: center;
+}
+
+#box1 {
+	background-color: green;
+	height: 50px; 
+	width: 25%;
+	border-radius: 15px;
+	margin-top: 40px;
+}
